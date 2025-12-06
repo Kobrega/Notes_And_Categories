@@ -7,6 +7,10 @@ Consultas Avanzadas: Búsqueda de texto mediante cláusulas LIKe y agrupación/f
 Arquitectura MVC  Separación estricta entre la lógica de datos, la interfaz de usuario y el controlador que las une
 
 1.  Gestión de Categorías: Crear nuevas categorías para agrupar notas
-2.  Gestión de Notas: Crear notas con título, contenido y fecha automática, vinculadas a una categoría existente
-3.  Búsqueda Dinámica: Filtrado de notas por título o contenido en tiempo real
-4.  Filtrado por Categoría: Visualización exclusiva de notas pertenecientes a una categoría específica
+  ![crear categoria](https://github.com/user-attachments/assets/16541e68-45cc-4c9d-9a6b-3c5d09ffba22)
+
+2.  
+3.  Gestión de Notas: Crear notas con título, contenido y fecha automática, vinculadas a una categoría existente
+4.  Búsqueda Dinámica: Filtrado de notas por título o contenido en tiempo real
+5.  Filtrado por Categoría: Visualización exclusiva de notas pertenecientes a una categoría específica
+
