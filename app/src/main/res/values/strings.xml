@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes_And_Categories</string>
+    <string name="find_note">Buscar nota por título.</string>
+    <string name="find">Buscar</string>
+    <string name="new_someting">Nueva Nota/Categoria</string>
+    <string name="filt_category">Filtrar por Categoría:</string>
+</resources>
