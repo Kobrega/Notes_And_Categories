@@ -12,7 +12,7 @@ import androidx.room.PrimaryKey;
                 entity = Category.class,
                 parentColumns = "category_id",
                 childColumns = "category_id",
-                onDelete = ForeignKey.CASCADE // Si borras la categoría, se borran sus notas
+                onDelete = ForeignKey.CASCADE
         )
 )
 
