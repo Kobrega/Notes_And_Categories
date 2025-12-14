@@ -18,4 +18,18 @@ Arquitectura MVC  Separación estricta entre la lógica de datos, la interfaz de
    ![filtro de busqueda](https://github.com/user-attachments/assets/5732408c-3b20-4500-9f11-fc4bc07a78f4)
 
 4.  Filtrado por Categoría: Visualización exclusiva de notas pertenecientes a una categoría específica
+---------------------------------------------------------------------------------------------------------
+
+CREACION DE HISTORIAL DE ACCIONES 
+1. aparicion  de boton de historial
+   ![boton de historial](https://github.com/user-attachments/assets/8d65df87-bb97-4274-8d02-9c4e0e2d6bb4)
+
+2.categoria creada y registrada
+  ![categoria creada](https://github.com/user-attachments/assets/7429d15d-18f7-4f13-b458-a407517571d1)
+
+3.nota creada y registrada
+  ![WhatsApp Image 2025-12-14 at 10 31 37 AM (1)](https://github.com/user-attachments/assets/f124eed8-6c35-4b3d-81b3-77221cdf38dc)
+
+
+
     
