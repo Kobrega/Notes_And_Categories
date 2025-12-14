@@ -54,6 +54,11 @@ public class MainActivity extends AppCompatActivity {
             startActivity(new Intent(this,
                     AddActivity.class));
         });
+
+        findViewById(R.id.btnViewHistory).setOnClickListener(v -> {
+            Intent intent = new Intent(MainActivity.this, HistoryActivity.class);
+            startActivity(intent);
+        });
     }
 
     @Override
