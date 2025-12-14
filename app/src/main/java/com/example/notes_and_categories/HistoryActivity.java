@@ -27,7 +27,7 @@ public class HistoryActivity extends AppCompatActivity {
         rv.setLayoutManager(new LinearLayoutManager(this));
         rv.setAdapter(adapter);
 
-        // Configurar Filtro
+        // Filtro
         String[] options = {"TODOS", "INSERT_NOTE", "INSERT_CATEGORY"};
         spinner.setAdapter(new ArrayAdapter<>(this, android.R.layout.simple_spinner_dropdown_item, options));
 
